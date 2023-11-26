@@ -10,7 +10,7 @@ namespace Module13Pr
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int> { 3,4,5,3,2,1,8,9,0,8 };
+            List<int> numbers = new List<int> { 7,4,1,3,2,1,8,6,0,8 };
             FindAndPrintSecondMax(numbers);
 
             RemoveOddNumbers(numbers);
